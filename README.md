@@ -1,5 +1,5 @@
 # Platypus-Music-Player
 
-#coming soon
+# coming soon
 
 do a filp
